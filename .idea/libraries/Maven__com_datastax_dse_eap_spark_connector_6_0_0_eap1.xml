@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.datastax.dse.eap:spark-connector:6.0.0-eap1">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/datastax/dse/eap/spark-connector/6.0.0-eap1/spark-connector-6.0.0-eap1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/datastax/dse/eap/spark-connector/6.0.0-eap1/spark-connector-6.0.0-eap1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/datastax/dse/eap/spark-connector/6.0.0-eap1/spark-connector-6.0.0-eap1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
